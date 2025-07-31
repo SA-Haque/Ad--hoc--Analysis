@@ -1,7 +1,6 @@
-# Ad--hoc--Analysis
 
 
-#  Ad-hoc SQL Analysis Project
+#  Ad-hoc SQL Analysis
 
 This project contains 10 different ad-hoc SQL analysis tasks, each designed to answer real-world business questions using SQL. Alongside the SQL queries, a presentation is included that summarizes key insights and provides actionable recommendations based on the findings.
 
