@@ -1,11 +1,11 @@
 # Ad--hoc--Analysis
 
 
-# 🧠 Ad-hoc SQL Analysis Project
+#  Ad-hoc SQL Analysis Project
 
 This project contains 10 different ad-hoc SQL analysis tasks, each designed to answer real-world business questions using SQL. Alongside the SQL queries, a presentation is included that summarizes key insights and provides actionable recommendations based on the findings.
 
-## 📁 Project Structure
+## Project Structure
 Here is Requested Docs: _[Ad-hoc Requests pdf](https://github.com/SA-Haque/Ad--hoc--Analysis/blob/main/%5B1%5D%20Ad-hoc-Requests.pdf)_ 
 
 
@@ -16,7 +16,7 @@ Each analysis is stored as a separate SQL file:  _[Ad-hoc Analysis](https://gith
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Solve real-world problem using SQL
 - Derive business insights from data
@@ -35,7 +35,7 @@ The presentation includes:
 
 ---
 
-## 🔧 Tools Used
+## Tools Used
 
 - **SQL** (PostgreSQL / MySQL)
 - **Power BI / PowerPoint / Canva** for insights presentation
@@ -54,7 +54,7 @@ The presentation includes:
 
 ---
 
-## 🧪 Example Questions Solved
+##  Example Questions Solved
 
 - Get the complete report of the Gross sales amount for the customer “Atliq
 Exclusive” for each month.
@@ -67,13 +67,13 @@ total_sold_quantity in the fiscal_year 2021?
 ---
 
 🙋‍♀️ About Me
-I'm Shahvaz, passionate about turning raw data into actionable business insights using tools like SQL, Power BI, and Excel.
+I'm Shahbaz, passionate about turning raw data into actionable business insights using tools like SQL, Power BI, and Excel.
 
 GitHub: SA-Haque
 
 LinkedIn: _[Connect here](https://www.linkedin.com/in/shahbaz-ali-haque/)_ 
 
-## 🚀 How to Use
+##  How to Use
 
 1. Clone the repository:
    ```bash
